@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi-POP</string>
+    <string name="mipop_switch_title">Mi-POP</string>
+    <string name="mipop_theme_title">Button Style</string>
+    <string name="mipop_switch_summary">Mi-POP enabled，the navigation bar could be replaced</string>
+    <string name="mipop_fullscreen_title">Hide the navigation bar</string>
+    <string name="mipop_fullscreen_summary">Larger screen area available</string>
+    <string name="mipop_firstkey">FirstKey</string>
+    <string name="mipop_button_alpha_title">Mipop Button Opacity</string>
+    <string name="mipop_button_alpha_dialog_msg">range：60~255, when then values smaller then button more transparent</string>
+    <string name="alpha_waring_msg">your input values less than 60 or larger then 255!</string>
+    <string name="alpha_summary">Opacity：%1$d, Default is:255.</string>
+    <string name="alpha_null_waring_msg">cannot input empty values!</string>
+    <string name="other_category_title">AdvSettings</string>
+    <string name="mipop_keyback">Back Button</string>
+    <string name="mipop_keyhome">Home Button</string>
+    <string name="mipop_keymenu">Menu Button</string>
+    <string name="mipop_keyrecl">Task Button</string>
+    <string name="button_longclick_category_title">Button LongClick</string>
+    <string name="button_longclick_category_summ">Setting LongClick function of Back &amp; Home &amp; Recl &amp; Menu Button</string>
+    <string name="about_category_title">about and copyright</string>
+    <string name="about_title">author：SWQJueLian。。</string>
+    <string name="about_summary">Github project: https://github.com/SWQJueLian/JuelianMiPopPlus</string>
+    <string name="add_freeze_message_format">are you sure use “%1$s” to longClick start app？</string>
+    <string name="start">start</string>
+    <string name="loading">loading...</string>
+    <string name="chooseapp">choose an app</string>
+    <string name="not_select_app">not specified app</string>
+</resources>
